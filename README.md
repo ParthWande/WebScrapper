@@ -7,6 +7,7 @@ To run
 2)Make A API KEY on Bright Data
    AUTH = ''
    SBR_WEBDRIVER = f''
+  
   Replace these 2 with your specific information.
 
 3)Run the Main.py using Streamlit run main.py
